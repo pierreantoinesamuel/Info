@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pierreantoinesamuel  
-- 👀 I’m interested in data analysis, business intelligence, and cloud computing  
-- 🌱 I’m currently learning AWS Cloud Practitioner and improving my data engineering skills  
+- 👀 I’m interested in data analysis, data engineering, business intelligence, and cloud computing  
+- 🌱 I’m certified AWS Cloud Practitioner  
 - 💞️ I’m looking to collaborate on data visualization projects, reporting automation, and cloud-based data solutions  
 - 📫 How to reach me: pierreantoinesamuel@gmail.com or via LinkedIn https://www.linkedin.com/in/pierre-antoine-samuel/  
 - 😄 Pronouns: he/him  
